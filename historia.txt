@@ -1,3 +1,5 @@
 historia:
 
 esta es una historia y se almacena en el archivo.
+
+Hubo un cambio en la historia.
