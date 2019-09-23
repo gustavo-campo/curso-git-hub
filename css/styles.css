@@ -1,0 +1,12 @@
+body 
+{
+    color: gray;
+    text-align: center;
+    font-family: "Arial";
+}
+
+#cabecera {
+    color: deeppink;
+    text-align: left;
+    font-family: Helvetica;
+}
